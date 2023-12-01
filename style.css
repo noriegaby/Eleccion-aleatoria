@@ -1,0 +1,62 @@
+body {
+  background-image: url('https://www.formacionsmart.com/wp-content/uploads/2022/03/toma-de-decisiones-862x431.jpg');
+  background-size: 85%; /* Reducir el tamaño de la imagen al 50% del tamaño del cuerpo */
+  background-repeat: no-repeat;
+  align-content:center;
+}
+
+
+#opcionesList {
+  padding: 20px; /* Espacio interno de 10px alrededor del contenido */
+  height: 50px;
+  font-size: 25px;
+  color: black;
+  font-family:cursive;
+}
+
+#opcionElegida{
+  padding: 20px; /* Espacio interno de 10px alrededor del contenido */
+  height: 70px;
+  font-size: 25px;
+  color:black;
+  font-family:monospace;
+}
+ h1{
+ font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+ p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+ }
+ input{
+  width: 100%;
+  display: block;
+  margin-bottom: 5px;
+  border: none; 
+  color: rgb(7, 7, 7); 
+  padding: 14px 28px; 
+  cursor: pointer; 
+  border: 1px solid black;
+  border-radius: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ }
+
+ .btn-block {
+  width: 100%;
+  display: block;
+  margin-bottom: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn {
+  border: none; 
+  color: white; 
+  padding: 8px 16px; 
+  cursor: pointer; 
+  border-radius: 2px; 
+  width: 120px; 
+}
+
+.primary {background-color: #bfdbf3; color: black;} 
+.primary:hover {background: #4c8abd;}
