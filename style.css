@@ -1,6 +1,6 @@
 body {
   background-image: url('https://www.formacionsmart.com/wp-content/uploads/2022/03/toma-de-decisiones-862x431.jpg');
-  background-size: 100%; /* Reducir el tamaño de la imagen al 50% del tamaño del cuerpo */
+  background-size: 85%; /* Reducir el tamaño de la imagen al 50% del tamaño del cuerpo */
   background-repeat: no-repeat;
   align-content:center;
 }
@@ -19,7 +19,7 @@ body {
   height: 70px;
   font-size: 25px;
   color:black;
-  font-family:monospace;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
  h1{
  font-family:Verdana, Geneva, Tahoma, sans-serif
